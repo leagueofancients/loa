@@ -1,2 +1,2 @@
-# loa
+# LOA
 League of Ancients
